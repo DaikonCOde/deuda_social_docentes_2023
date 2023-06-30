@@ -4,7 +4,7 @@ import { Space_Mono } from "next/font/google";
 const space_mono = Space_Mono({ weight: ["400", "700"], subsets: ["latin"] });
 
 export const metadata = {
-  title: "Deuda Social DOcentes - 2023",
+  title: "Deuda Social Docentes - 2023",
   description:
     "Lugar donde podras saber si es que eres beneficiario de la deuda social a docentes 2023",
 };

@@ -260,9 +260,7 @@ export default function Home() {
         <span className="text-white text-sm">
           Creado por{" "}
           <span className="font-bold underline underline-offset-2 cursor-pointer">
-            <a href="https://alex-ocsa.netlify.app/" target="_blank">
-              Alex Ocsa
-            </a>
+            Alex Ocsa
           </span>
         </span>
       </footer>
